@@ -1,0 +1,10 @@
+# Cài bên trong virtual environment đã activate:
+#   python -m venv venv && venv\Scripts\Activate.ps1 && pip install -r requirements.txt
+streamlit==1.63.0
+plotly==7.0.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+joblib==1.5.3
+pyarrow==25.0.1
+statsmodels==0.15.0
